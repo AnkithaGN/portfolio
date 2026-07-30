@@ -1,172 +1,77 @@
 # 🌐 Personal Portfolio Website
 
-<p align="center">
-  <img src="./assets/profile.jpg.jpg" alt="Ankitha G N" width="180"/>
-</p>
+A modern, responsive personal portfolio website built using **HTML**, **CSS**, and **JavaScript** to showcase my education, technical skills, internships, projects, certifications, and contact information.
 
-<h3 align="center">Ankitha G N</h3>
+## 🚀 Live Demo
 
-<p align="center">
-B.Tech Computer Science & Engineering Graduate (2026) <br>
-Software Development | AI | Cybersecurity | Data Analytics
-</p>
+🔗 https://ankithagn.github.io/portfolio/
 
----
+## 📌 Features
 
-## 📌 About
-
-This repository contains my personal portfolio website developed to showcase my education, technical skills, internships, certifications, and software development projects.
-
-The portfolio is designed with a clean, responsive, and modern user interface to provide recruiters and employers with a comprehensive overview of my academic background and technical expertise.
-
----
-
-## ✨ Features
-
-- Responsive portfolio website
-- Professional home page
+- Responsive design for desktop, tablet, and mobile
+- Clean and modern user interface
 - About Me section
-- Internship Experience
-- Projects showcase
 - Technical Skills
-- Education
+- Internship Experience
+- Projects Showcase
 - Certifications
-- Languages
 - Contact Information
 - Resume download option
-- Smooth scrolling
-- Mobile friendly navigation
-- Scroll animations
+- Smooth scrolling navigation
 
----
-
-## 🛠 Technologies Used
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 - Git
 - GitHub
-
----
+- GitHub Pages
 
 ## 📂 Project Structure
 
 ```
-portfolio
+portfolio/
+│── index.html
+│── style.css
+│── script.js
+│── README.md
 │
-├── index.html
-├── style.css
-├── script.js
-├── assets
-│     ├── profile.jpg
-│     └── Resume.pdf
-│
-└── README.md
+├── assets/
+│   ├── profile.jpg.jpg
+│   └── AnkithaGN_Resume.pdf
 ```
 
----
+## 💻 Installation
 
-## 💻 Projects Included
-
-### 🌱 AI-Powered Crop Health Monitoring
-
-- Deep Learning based crop disease detection system
-- Built using Python, Streamlit, TensorFlow, OpenCV and MobileNetV2
-- Predicts crop diseases from uploaded leaf images
-- Provides intelligent crop recommendations
-
----
-
-### 🌐 Front-End Utility Tool
-
-- Form Validation
-- Calculator
-- Responsive UI
-- DOM Manipulation
-- JavaScript
-
----
-
-## 🚀 Installation
-
-Clone this repository
+1. Clone the repository
 
 ```bash
 git clone https://github.com/AnkithaGN/portfolio.git
 ```
 
-Open the project
+2. Open the project folder
 
 ```bash
 cd portfolio
 ```
 
-Run
-
-Simply open
-
-```
-index.html
-```
-
-using any web browser.
-
----
+3. Open `index.html` in your browser.
 
 ## 📸 Preview
 
-Add screenshots of
+Visit the live website:
 
-- Home Page
-- About Section
-- Projects Section
-- Contact Section
+https://ankithagn.github.io/portfolio/
 
-inside an `assets/screenshots` folder.
-
----
-
-## 🎯 Objectives
-
-- Showcase my technical skills
-- Present my academic projects
-- Highlight internships and certifications
-- Provide recruiters with a professional online profile
-
----
-
-## 🔮 Future Enhancements
-
-- Dark / Light Mode
-- Project Filters
-- Blog Section
-- Contact Form Backend
-- Visitor Counter
-- Download Resume Analytics
-
----
-
-## 👩‍💻 Author
+## 📬 Contact
 
 **Ankitha G N**
 
-B.Tech Computer Science & Engineering (2026 Graduate)
+- 📧 Email: *(Add your email here)*
+- 💼 LinkedIn: *(Add your LinkedIn profile link)*
+- 💻 GitHub: https://github.com/AnkithaGN
 
-📍 Bengaluru, Karnataka
+## 📄 License
 
-📧 ankithagn3008@gmail.com
-
-🔗 LinkedIn:
-https://www.linkedin.com/in/ankitha-g-n-5a60242a4
-
-💻 GitHub:
-https://github.com/AnkithaGN
-
----
-
-## ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
-
-Thank you for visiting my portfolio!
+This project is created for educational and professional portfolio purposes.
